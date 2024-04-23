@@ -1,0 +1,27 @@
+/* Default settings */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Titol settings */
+
+#titol{
+    display: inline-block;
+    font-size: 50px;
+} 
+
+#logo{
+    vertical-align: middle;
+    line-height: 100px;
+    height: 100px;
+    
+}
+
+/* test test test */
+.ciao{
+    background-color: rebeccapurple;
+}
+/* test test test */
