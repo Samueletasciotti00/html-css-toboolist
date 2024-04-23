@@ -35,8 +35,8 @@ body{
 
 #logo{
     vertical-align: middle;
-    line-height: 100px;
-    height: 100px;
+    line-height: 80px;
+    height: 80px;
     padding: 10px;
     
 }
@@ -102,6 +102,10 @@ body{
     margin-top: 30px;
 }
 
+#upcoming{
+    margin-top: 30px;
+}
+
 .editorial{
     font-size: 12px;
     padding: 5px;
@@ -138,4 +142,21 @@ body{
     padding: 5px;
     color: #f7f8fb;
     border-radius: 10px;
+}
+
+#website{
+    background-color: #cb6a9e;
+    font-size: 12px;
+    padding: 5px;
+    color: #f7f8fb;
+    border-radius: 10px; 
+}
+
+#sales{
+    background-color: #b4c74e;
+    font-size: 12px;
+    padding: 5px;
+    color: #f7f8fb;
+    border-radius: 10px; 
+}
 }
