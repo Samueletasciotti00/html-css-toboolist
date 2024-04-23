@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Golos Text", sans-serif;;
 }
 
 body{
@@ -12,13 +13,23 @@ body{
 
 #container{
     margin: 5% 100px;
+    margin-top: 10px;
+}
+
+.position{
+    left: 20px;
 }
 
 #container-two{
-    /* margin: 5% 100px;
-    margin: 10px;*/
-
-
+    margin-left: 130px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    padding-top: 20px;
+    background-color: white;
+    width: 1225px;
+    height: 550px;
+    position: absolute;
+    top: 170px;
 } 
 
 /* Titol settings */
@@ -54,10 +65,10 @@ body{
 
 #buttons{
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 25px;
     margin-left: 30px;
-    margin-bottom: 5px;
-    border: 1px solid gray;
+    margin-bottom: -0px;
+  
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     width: 1225px;
@@ -158,5 +169,4 @@ body{
     padding: 5px;
     color: #f7f8fb;
     border-radius: 10px; 
-}
 }
