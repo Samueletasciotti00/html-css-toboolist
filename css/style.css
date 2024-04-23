@@ -15,8 +15,11 @@ body{
 }
 
 #container-two{
-    margin: 5% 100px;
-}
+    /* margin: 5% 100px;
+    margin: 10px;*/
+
+
+} 
 
 /* Titol settings */
 
@@ -42,14 +45,10 @@ body{
 .ciao{
     background-color: white;
 }
-#container{
-    /* background-color: brown; */
-}
+
 /* test test test */
 
 
-
-/* ----------------------- */
 
 /* Button settings */
 
@@ -89,14 +88,54 @@ body{
     padding: 3px;
     border-radius: 100%;
 }
+.red-flag{
+    color: tomato;
+    border: 2px solid tomato;
+    padding: 3px;
+    border-radius: 100%;
+}
 
 
 /* tags color settings and other */
+
+#today{
+    margin-top: 30px;
+}
 
 .editorial{
     font-size: 12px;
     padding: 5px;
     background-color: #66aaed;
+    color: #f7f8fb;
+    border-radius: 10px;
+}
+
+
+.space{
+    margin-top: 15px;
+}
+
+#q-goals{
+    background-color: #9676df;
+    font-size: 12px;
+    padding: 5px;
+    color: #f7f8fb;
+    border-radius: 10px;
+}
+
+
+#recruiting{
+    background-color: #7bbcaa;
+    font-size: 12px;
+    padding: 5px;
+    color: #f7f8fb;
+    border-radius: 10px;
+}
+
+#mobile{
+    background-color: #e7a04e;
+    font-size: 12px;
+    padding: 5px;
     color: #f7f8fb;
     border-radius: 10px;
 }
